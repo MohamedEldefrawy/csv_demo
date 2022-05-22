@@ -14,7 +14,7 @@ csv_demo read csv file and skip the odd rows then print the third column in one 
 
 ### GIF
 
-![screen-gif](./resultCsv.png)
+![screen-gif](resultCsv.png)
 
 ## My process
 
