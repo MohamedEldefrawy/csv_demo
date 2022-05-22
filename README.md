@@ -10,6 +10,12 @@ csv_demo read csv file and skip the odd rows then print the third column in one 
     - [Built with](#built-with)
 - [Author](#authors)
 
+## Overview
+
+### GIF
+
+![screen-gif](./resultCsv.png)
+
 ## My process
 
 1) Clone the project
